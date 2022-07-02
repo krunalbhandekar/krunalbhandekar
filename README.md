@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunalbhandekar" alt="krunalbhandekar" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://krunalbhandekar-portfolio.netlify.app/](https://krunalbhandekar-portfolio.netlify.app/)
+
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **krunalbhandekar10@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NHi6p1V9ImFlUMDSjQFTLiKlxu1FFXQ0/view?usp=sharing](https://drive.google.com/file/d/1NHi6p1V9ImFlUMDSjQFTLiKlxu1FFXQ0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
