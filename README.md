@@ -8,16 +8,16 @@
 
 ## 🌐 Let's Connect :
 
-<a  href="https://www.linkedin.com/in/krunal-bhandekar/">
+<a  href="https://www.linkedin.com/in/krunal-bhandekar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="mailto:krunalbhandekar10@gmail.com"> 
+<a href="mailto:krunalbhandekar10@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://krunalbhandekar-portfolio.netlify.app/">
+<a href="https://krunalbhandekar-portfolio.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
 </a>
-<a href="https://www.instagram.com/krunal_bhandekar/">
+<a href="https://www.instagram.com/krunal_bhandekar/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="krunal" />
 </a>
 <br>
