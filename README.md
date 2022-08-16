@@ -13,7 +13,8 @@
 • 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>MERN</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/krunalbhandekar"><b>Krunal Bhandekar</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/krunal-bhandekar/"><b>Krunal Bhandekar</b></a><br/>
+•⚡ Fun Fact <b>I love to read Mythic Fictional Novels</b>.<br/>
 
 </span>
 <br>
