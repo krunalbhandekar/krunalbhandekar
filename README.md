@@ -4,6 +4,22 @@
 <br>
 <br>
 
+## Fun Fact 🎈:
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+
+<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/>
+
+• 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
+• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/itsurshivam"><b>Shivam Sharma</b></a><br/>
+
+</span>
+<br>
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalbhandekar&label=Profile%20views&color=0e75b6&style=flat" alt="krunalbhandekar" /> </p>
 
 ## 🌐 Let's Connect :
