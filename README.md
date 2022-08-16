@@ -12,8 +12,8 @@
 
 • 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/itsurshivam"><b>Shivam Sharma</b></a><br/>
+• 💬 Ask me about <b>MERN</b>.<br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/krunalbhandekar"><b>Krunal Bhandekar</b></a><br/>
 
 </span>
 <br>
