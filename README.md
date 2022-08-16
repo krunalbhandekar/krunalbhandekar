@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krunal Bhandekar</h1>
-<h3 align="center">- Hello, My name is Krunal Raju Bhandekar. I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN (MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
+<h1 align="center">-Hello 👋, I'm Krunal Bhandekar</h1>
+<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN (MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
 <br>
 <br>
 <br>
